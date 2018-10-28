@@ -1,5 +1,5 @@
 Titanic data
-Titanic-using svm
+Titanic-using svm-(0.76-kaggle)
 Titanic1-using deep learning(keras)
-titanic2-using voting ensembling
-titanic3-Using stacking
+titanic2-using voting ensembling(0.77-kaggle)
+titanic3-Using stacking(0.794-kaggle)
